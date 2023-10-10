@@ -71,13 +71,15 @@ p {
   color: #404bbf;
 }
 
-.address-info {
+.address-container {
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
   line-height: 1.5;
-  font-style: normal;
   letter-spacing: 0.32px;
+  font-style: normal;
+}
+
+.address-info {
   color: #434455;
 }
 
